@@ -27,6 +27,3 @@ The program never moves files unless `--apply` is explicitly provided. Try it on
 ```bash
 python -m unittest discover -s tests -v
 ```
-
-## Learning outcomes
-Pathlib, file-system automation, CLI design, CSV reporting, defensive programming, and testing.
